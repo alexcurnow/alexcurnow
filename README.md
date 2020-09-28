@@ -5,7 +5,7 @@
 ### Hello, I'm Alex! 👋
 - 🎸 I'm a software engineer and guitarist for Charge The Atlantic. If I'm not writing code or guitar parts, I can often be found on a climbing route somewhere with my wife, or doing my best to choke an opponent in a Brazilian Jiu-Jitsu round of sparring 🤼‍♂️
 - 🌱 I’m currently studying OOP design patterns, drilling my C# .NET and React skills, and have AWS in my sights. 
-- 💻 Check out these two Apps that I built from scratch and am most proud of:
+- 💻 Here are a couple apps I built:
      - [Sender](https://github.com/alexcurnow/Sender) 
      - [Cativity](https://github.com/alexcurnow/cativity)
 - 📫 How to reach me: alexcurnow@gmail.com || [Dev Portfolio](https://alexcurnow.github.io/my-portfolio/) || [Spotify](https://open.spotify.com/album/7kcsIMvWU0beKTkwJaS3TC?highlight=spotify:track:4iiF3UWDSd3YrJ2teuiDGX) || [Artist Site](https://chargetheatlantic.band/)
@@ -57,7 +57,7 @@
 **alexcurnow/alexcurnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt)
+![github stats](https://github-readme-stats.vercel.app/api?username=alexcurnow)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
